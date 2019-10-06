@@ -1,0 +1,4 @@
+node_modules
+test
+app/public/uploads
+yarn-error.log
